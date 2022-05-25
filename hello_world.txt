@@ -1,1 +1,2 @@
 Hey there world!
+Trying out commit without message flag.
